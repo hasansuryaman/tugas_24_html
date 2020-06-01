@@ -1,6 +1,6 @@
 # Tugas 24 HTML
 
-Table Caption, thead,tbody dan tfooter.
+Table Caption, thead, tbody dan tfooter.
 
 **Tugas 24-1**
 ![tugas24-1](screen/tugas24-1.png)
